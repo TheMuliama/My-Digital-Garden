@@ -47,4 +47,7 @@ Le clonage thérapeutique est une technique qui vise à créer à partir de cell
 La thérapie génique **n'est pas** le clonage thérapeutique
 
 %%J'aime beaucoup le style de l'image ci-dessous%%
-![[Pasted image 20241002100558.png]]
+![[Pasted image 20241002100558.png]]*https://slideplayer.fr/slide/485831/
+
+
+
