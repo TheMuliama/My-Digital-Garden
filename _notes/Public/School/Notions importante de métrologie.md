@@ -1,7 +1,7 @@
 ---
 title: Métrologie
 date: 03-10-2024
-feed: hide
+feed:
 ---
 *Authors Note: This note is currently not finished. It's a draft and it don't have an English version. If you want to help me you can contact me.*
 

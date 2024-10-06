@@ -18,7 +18,12 @@ C'est lorsque le rayon rencontre le dioptre et repart dans le milieu dans lequel
 C'est lorsque le rayon rencontre le dioptre et repart dans un milieu différent de celui duquel il se propage. 
 
 ## Savoir énoncer les lois de Snell-Descartes
-Selon la loi de Snell-Descartes, le plan d'incidence est le plan de réfléxion
+
+![[Attendus Optique I - fig1.png|600]]
+**Pour la réflexion**
+Selon la loi de Snell-Descartes, le plan d'incidence est le plan de réflexion
+
+**Pour la réfraction**
 
 *Savoir appliquer les lois de Snell-Descartes pour décrire la propagation d'un rayon lumineux*
 
